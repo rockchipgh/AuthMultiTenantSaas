@@ -1,1 +1,2 @@
 psycopg2=2.9.9
+pyyaml=6.0.2
